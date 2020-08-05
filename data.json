@@ -1,0 +1,55 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "avatar_url": "https://source.unsplash.com/collection/3465564/500x500",
+      "name": "luther marques cordeiro",
+      "email": "luther.m.cordeiro@gmail.com",
+      "birth": 852681600000,
+      "gender": "M",
+      "blood": "A+",
+      "weight": "64",
+      "height": "185"
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://source.unsplash.com/collection/3465564/500x500",
+      "name": "Camila",
+      "email": "camila@gmail.com",
+      "birth": 852681600000,
+      "gender": "F",
+      "blood": "A+",
+      "weight": "75",
+      "height": "179"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 2,
+      "avatar_url": "https://source.unsplash.com/collection/3465564/500x500",
+      "name": "Francisca",
+      "birth": 318470400000,
+      "gender": "F",
+      "services": "academia,força,natação",
+      "created_at": 1596091003288
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://source.unsplash.com/collection/3465564/500x500",
+      "name": "Pedro",
+      "birth": 504835200000,
+      "gender": "M",
+      "services": "academia,força, aerobica",
+      "created_at": 1596091533896
+    },
+    {
+      "id": 4,
+      "avatar_url": "https://source.unsplash.com/collection/3465564/500x500",
+      "name": "Paulo",
+      "birth": 899510400000,
+      "gender": "M",
+      "services": "academia,força,natação",
+      "created_at": 1596093791477
+    }
+  ]
+}
